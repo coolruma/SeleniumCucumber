@@ -1,0 +1,42 @@
+2017-05-22 05:11:05 [INFO ] [InitializeWebDrive] - [standAloneStepUp] PhantomJs
+2017-05-22 05:11:11 [INFO ] [InitializeWebDrive] - [before] PhantomJs
+2017-05-22 05:11:17 [INFO ] [GenericHelper] - [takeScreenShot] E:\ujjawal\application1\workspaceRuma\SeleniumCucumber\target\test-classes\screenshots\_2017-05-22\Search based on laptops.jpg
+2017-05-22 05:11:19 [INFO ] [InitializeWebDrive] - [tearDownDriver] Shutting Down the driver
+2017-05-22 05:11:19 [INFO ] [InitializeWebDrive] - [after] 
+2017-05-22 05:11:19 [INFO ] [InitializeWebDrive] - [standAloneStepUp] PhantomJs
+2017-05-22 05:11:22 [INFO ] [InitializeWebDrive] - [before] PhantomJs
+2017-05-22 05:11:25 [INFO ] [GenericHelper] - [takeScreenShot] E:\ujjawal\application1\workspaceRuma\SeleniumCucumber\target\test-classes\screenshots\_2017-05-22\Search based on Tablets.jpg
+2017-05-22 05:11:26 [INFO ] [InitializeWebDrive] - [tearDownDriver] Shutting Down the driver
+2017-05-22 05:11:26 [INFO ] [InitializeWebDrive] - [after] 
+2017-05-22 05:11:26 [INFO ] [InitializeWebDrive] - [standAloneStepUp] PhantomJs
+2017-05-22 05:11:28 [INFO ] [InitializeWebDrive] - [before] PhantomJs
+2017-05-22 05:11:31 [INFO ] [GenericHelper] - [takeScreenShot] E:\ujjawal\application1\workspaceRuma\SeleniumCucumber\target\test-classes\screenshots\_2017-05-22\Search based on Cameras.jpg
+2017-05-22 05:11:33 [INFO ] [InitializeWebDrive] - [tearDownDriver] Shutting Down the driver
+2017-05-22 05:11:33 [INFO ] [InitializeWebDrive] - [after] 
+2017-05-22 05:11:33 [INFO ] [InitializeWebDrive] - [standAloneStepUp] PhantomJs
+2017-05-22 05:11:35 [INFO ] [InitializeWebDrive] - [before] PhantomJs
+2017-05-22 05:11:38 [INFO ] [GenericHelper] - [takeScreenShot] E:\ujjawal\application1\workspaceRuma\SeleniumCucumber\target\test-classes\screenshots\_2017-05-22\Search based on Mobile Phones.jpg
+2017-05-22 05:11:39 [INFO ] [InitializeWebDrive] - [tearDownDriver] Shutting Down the driver
+2017-05-22 05:11:39 [INFO ] [InitializeWebDrive] - [after] 
+2017-05-22 05:11:39 [INFO ] [InitializeWebDrive] - [standAloneStepUp] PhantomJs
+2017-05-22 05:11:41 [INFO ] [InitializeWebDrive] - [before] PhantomJs
+2017-05-22 05:11:45 [INFO ] [GenericHelper] - [takeScreenShot] E:\ujjawal\application1\workspaceRuma\SeleniumCucumber\target\test-classes\screenshots\_2017-05-22\Search based on Books.jpg
+2017-05-22 05:11:46 [INFO ] [InitializeWebDrive] - [tearDownDriver] Shutting Down the driver
+2017-05-22 05:11:46 [INFO ] [InitializeWebDrive] - [after] 
+2017-05-22 05:11:46 [INFO ] [InitializeWebDrive] - [standAloneStepUp] Chrome
+2017-05-22 05:12:04 [INFO ] [InitializeWebDrive] - [afterChrome] 
+2017-05-22 05:12:04 [INFO ] [InitializeWebDrive] - [standAloneStepUp] PhantomJs
+2017-05-22 05:12:06 [INFO ] [InitializeWebDrive] - [before] PhantomJs
+2017-05-22 05:12:09 [INFO ] [GenericHelper] - [takeScreenShot] E:\ujjawal\application1\workspaceRuma\SeleniumCucumber\target\test-classes\screenshots\_2017-05-22\Search Tablet and add it to the cart.jpg
+2017-05-22 05:12:10 [INFO ] [InitializeWebDrive] - [tearDownDriver] Shutting Down the driver
+2017-05-22 05:12:10 [INFO ] [InitializeWebDrive] - [after] 
+2017-05-22 05:12:10 [INFO ] [InitializeWebDrive] - [standAloneStepUp] PhantomJs
+2017-05-22 05:12:15 [INFO ] [InitializeWebDrive] - [before] PhantomJs
+2017-05-22 05:12:18 [INFO ] [GenericHelper] - [takeScreenShot] E:\ujjawal\application1\workspaceRuma\SeleniumCucumber\target\test-classes\screenshots\_2017-05-22\Search based on Speakers.jpg
+2017-05-22 05:12:21 [INFO ] [InitializeWebDrive] - [tearDownDriver] Shutting Down the driver
+2017-05-22 05:12:21 [INFO ] [InitializeWebDrive] - [after] 
+2017-05-22 05:12:21 [INFO ] [InitializeWebDrive] - [standAloneStepUp] Firefox
+2017-05-22 05:12:24 [INFO ] [InitializeWebDrive] - [afterFirefox] 
+2017-05-22 05:12:24 [INFO ] [InitializeWebDrive] - [standAloneStepUp] Chrome
+2017-05-22 05:12:34 [INFO ] [InitializeWebDrive] - [afterChrome] 
+2017-05-22 05:12:47 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports
